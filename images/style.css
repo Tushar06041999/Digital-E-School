@@ -1,0 +1,13 @@
+.logo-size{
+    width:198px;
+    height:59px;
+}
+.sign-in-button{
+    width:104px;
+    height: 43px;
+    background-color:#21B573;
+    border-radius: 50px;
+    border: none;
+    box-shadow: 0px 3px lightgrey;
+    cursor: pointer;
+    color: white;
