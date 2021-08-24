@@ -105,3 +105,45 @@ padding:0px;
     color:white;
     border:none;
 }
+
+
+
+
+
+
+/* Main Class part .This is mainly  started from here  */
+
+.main-class{
+    margin:0px 200px;
+    margin-top:40px;
+}
+
+.main-part{
+    float:left;
+    margin:10px;
+    height:250px;
+    width:250px;
+    background-color:#F1FFF2;
+}
+
+.main-part:hover{
+    background-color:#Fff;
+    box-shadow:12px 12px 8px rgb(255, 250, 255);
+    transform: scaleY(1.2);
+}
+
+.main-part img{
+    height:90px;
+    width:80px;
+   
+}
+.main-part h1{
+    margin-left:40px;
+}
+
+.main-part h3{
+    text-align:center;
+}
+div img{
+    margin-left:80px;
+}
