@@ -7,6 +7,7 @@ padding:0px;
     height:680px;
     width:100%;
     background-color:#F1FFF2;
+   
 }
 
 .container{
@@ -125,12 +126,14 @@ padding:0px;
     height:250px;
     width:250px;
     background-color:#F1FFF2;
+
 }
 
 .main-part:hover{
     background-color:#Fff;
     box-shadow:12px 12px 8px rgb(255, 250, 255);
     transform: scaleY(1.2);
+    box-shadow:8px 8px 12px rgb(241, 241, 241);
 }
 
 .main-part img{
@@ -270,4 +273,36 @@ div img{
     height:400px;
     width:100%;
     background-color: rgb(48, 48, 48);
+}
+.first-footer-child{
+    display:inline-block;
+    margin:80px;
+}
+
+.footer-child h2{
+    text-decoration:none;
+    margin-left:40px;
+    color:white;
+}
+
+.footer-child ul li{
+    text-decoration:none;
+    list-style-type:none;
+    color:white;
+}
+
+
+.footer-child{
+    display:inline-block;
+    margin-top:100px;
+    margin-left:100px;
+}
+.first-footer-child h3{
+    color:white;
+    margin-bottom:30px;
+}
+
+.last{
+    text-align: center;
+    color:white;
 }
